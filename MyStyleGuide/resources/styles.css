@@ -1,0 +1,133 @@
+h1 {
+  font-family: "Crimson Pro", serif;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Crimson Pro";
+  font-style: italic;
+  font-size: 40px;
+  color: #21010C;
+  text-decoration: underline;
+}
+.colorRoyalBlue {
+  background-image: url("./RoyalBlue.png");
+  width: 100px;
+  padding: 5px;
+  border-radius: 2px;
+  margin-bottom: 5px;
+}
+
+.colorLightBlue {
+  background-image: url("./LightBlue.png");
+  width: 100px;
+  padding: 5px;
+  border-radius: 2px;
+  margin-bottom: 5px;
+}
+
+.colorPurple {
+  background-image: url("./MedPurple.png");
+  width: 100px;
+  padding: 5px;
+  border-radius: 2px;
+  margin-bottom: 5px;
+}
+
+.colorMachineGrey {
+  background-image: url("./MachineGrey.png");
+  width: 100px;
+  padding: 5px;
+  border-radius: 2px;
+  margin-bottom: 5px;
+}
+
+.colorDarkOrange {
+  background-image: url("./DarkOrange.png");
+  width: 100px;
+  padding: 5px;
+  border-radius: 2px;
+  margin-bottom: 5px;
+}
+
+.colorRedWine {
+  background-image: url("./RedWine.png");
+  width: 100px;
+  padding: 5px;
+  border-radius: 2px;
+  margin-bottom: 5px;
+}
+
+.name, .hexcolor {
+  font-family: "Crimson Pro";
+  font-size: 15px;
+  font-weight: bold;
+}
+.CrimsonPro h3 {
+  background-image: url("./MachineGrey.png");
+}
+
+.crimsonProReg {
+  font-family: "Crimson Pro";
+  font-size: 25px;
+  font-weight: 400px;
+  font-style: italic;
+}
+.crimsonProMed {
+  font-family: "Crimson Pro";
+  font-size: 25px;
+  font-weight: 500px;
+  font-style: normal
+}
+
+.crimsonProBold {
+  font-family: "Crimson Pro";
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.PtSans h3 {
+  background-image: url("./LightBlue.png");
+}
+
+.ptSansReg{
+  font-family: "Pt Sans";
+  font-size: 25px;
+  font-style: normal;
+}
+
+.ptSansItal{
+  font-family: "Pt Sans";
+  font-size: 25px;
+  font-style: italic;
+}
+
+.ptSansBold{
+  font-family: "Pt Sans";
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.PtSerif h3 {
+  background-image: url("./RoyalBlue.png");
+}
+
+.ptSerifReg{
+  font-family: "Pt Serif";
+  font-size: 25px;
+  font-style: normal;
+}
+
+.ptSerifItal{
+  font-family: "Pt Serif";
+  font-size: 25px;
+  font-style: italic;
+}
+
+.ptSerifBold{
+  font-family: "Pt Serif";
+  font-size: 25px;
+  font-weight: bold;
+}
