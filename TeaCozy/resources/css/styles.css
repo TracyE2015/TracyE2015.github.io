@@ -53,7 +53,7 @@ body {
   }
 
   .mission {
-    background-image: url("resources/images/mission-background.jpg");
+    background-image: url("../images/mission-background.jpg");
     height: 700px;
     width: 1200px;
     margin-left: auto;
@@ -83,7 +83,7 @@ body {
   }
 
   .locations {
-    background-image: url("resources/images/locations-background.jpg");
+    background-image: url("../images/locations-background.jpg");
     height: 500px;
     width: 1200px;
     margin-top: 50px;
