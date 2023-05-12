@@ -1,0 +1,121 @@
+/* body */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    margin-left: 20px;
+    background-color: black;
+    opacity: 0.9;
+  }
+
+  /* Header section */
+  header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    margin: 0px auto;
+  }
+
+  .header-cont {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+  }
+
+  .logo img {
+   height: 50px;
+   padding-bottom: 15px;
+   position: fixed;
+  }
+
+  .nav {
+    width: 90%;
+    top: 0;
+    position: fixed;
+    
+  }
+
+  .nav li {
+    display: inline;
+    float: right;
+  }
+
+  .nav a {
+    display: block;
+    text-decoration: underline;
+    padding: 15px;
+    color: seashell;
+  }
+
+  /* Main section */
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;     
+  }
+
+  .mission {
+    background-image: url("../images/mission-background.jpg");
+    height: 700px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mis-head {
+    background-color: black;
+    margin-top: 300px;
+  }
+  
+  h2, h4 {
+    text-align: center;
+  }
+
+  .tea > .teaimages {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 10px;
+  }
+
+  figcaption {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .locations {
+    background-image: url("../images/locations-background.jpg");
+    height: 500px;
+    width: 1200px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .locations > .loc-cont {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 5em;
+  }
+
+  .loc-cont > .loc {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-around;
+    background-color: black;
+    width: 300px;
+    height: 250px;
+    margin-right: 40px;
+    text-align: center; 
+    opacity: 1;
+  }
+
+  h5 {
+    text-align: center;
+  }
+
+  /* Footer section */
+  .footer-p {
+    text-align: left;
+    height: 200px;
+  }
